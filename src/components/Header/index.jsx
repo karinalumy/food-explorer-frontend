@@ -49,7 +49,7 @@ export function Header({ search, functionButton }) {
             <NewDish to="/new">+ Adicionar novo prato</NewDish>
           ) : (
             <Favorites type="button" onClick={functionButton}>
-              Meus favoritos
+             
             </Favorites>
           )}
 
@@ -76,7 +76,7 @@ export function Header({ search, functionButton }) {
               disabled={isCartIsEmpty}
             >
               <img src={receipt} alt="receipt" />
-              Meu pedido <span>({cart.length})</span>
+              Pedidos <span>({cart.length})</span>
             </Button>
           )}
 
