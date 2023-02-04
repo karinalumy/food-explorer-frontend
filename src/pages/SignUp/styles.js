@@ -35,9 +35,15 @@ export const Form = styled.form`
   flex-direction: column;
   flex: 1;
   gap: 3.2rem;
-> legend {
+
+  > legend {
   font-size: 3.2rem;
   text-align: center;
+}
+
+> svg {
+  color: ${({ theme }) => theme.COLORS.GRAY_100};
+  font-size: 24px;
 }
 
 > a {

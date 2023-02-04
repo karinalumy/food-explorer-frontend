@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
+import { FiUser, FiMail, FiLock} from 'react-icons/fi'
 
 import { Input } from "../../components/Input";
 import { Button } from "../../components/Button";
@@ -17,7 +18,7 @@ export function SignUp() {
 
   function handleSignUp() {
     if (!name || !email || !password) {
-      return alert("Preencha todos os campos");
+      return alert("Preencha todos os campos!");
     }
 
     if (password.length < 6) {
@@ -66,28 +67,26 @@ export function SignUp() {
       <Form>
         <legend>Crie sua conta</legend>
         <Input
-          type="text"
-          label="name"
+          placeholder="Nome completo"
+          type="text"          
           title="Seu nome"
-          placeholder="Exemplo: Maria da Silva"
           onChange={(e) => setName(e.target.value)}
           required
         />
 
         <Input
+          placeholder="exemplo@email.com"
+          // icon= {FiMail}
           type="email"
-          label="email"
           title="Email"
-          placeholder="Exemplo: exemplo@exemplo.com"
           onChange={(e) => setEmail(e.target.value)}
           required
         />
 
         <Input
+          placeholder="Mínimo de 6 digitos"
           type="password"
-          label="password"
           title="Senha"
-          placeholder="No mínimo 6 caracteres"
           onChange={(e) => setPassword(e.target.value)}
           minLength="6"
           required

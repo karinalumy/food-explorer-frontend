@@ -39,18 +39,16 @@ export function SignIn() {
         <legend>Faça login</legend>
         <Input
           type="email"
-          label="email"
           title="Email"
-          placeholder="Exemplo: exemplo@exemplo.com"
+          placeholder="exemplo@exemplo.com"
           onChange={(e) => setEmail(e.target.value)}
           required
         />
 
         <Input
           type="password"
-          label="password"
           title="Senha"
-          placeholder="No mínimo 6 caracteres"
+          placeholder= "Mínimo de 6 caracteres"
           onChange={(e) => setPassword(e.target.value)}
           minLength="6"
           required
