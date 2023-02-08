@@ -10,8 +10,7 @@
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Instruções para a execução do projeto](#instruções-para-a-execução-do-projeto)
 
 # Descrição do Projeto
   O Food Explorer é o projeto final do curso Explorer da Rocketseat.</br>
@@ -83,12 +82,36 @@ E para essa aplicação foi utilizada:
 
 # Instruções para a execução do projeto
 Clonar os dois repositórios, tanto este (Frontend) quanto o Backend que pode ser encontrado [aqui](https://github.com/karinalumy/food-explorer-api-render)
-Entre na pasta do Backend e rode os seguintes comandos:
+Entre na pasta do Backend e rode os seguintes comandos no terminal:
+
 ```
-npm install
+  # Para instalar as dependencias
+  npm install
+  
+  # Para rodar a api
+  npm run dev
 ```
 
-# Licensa
+Para o Frontend entre na pasta e de os seguintes comandos:
+
+```
+  # Para instalar as dependencias
+  npm install
+  
+  # Para rodar a api
+  npm run dev
+  
+  # A seguir no terminal você poderá ver o local onde a aplicação está sendo rodada. Copie e cole o endereço no seu navegador.
+    ex: http://localhost:5173/ 
+  
+  # Login de administrador:
+    email: admin@email.com
+    senha: 123456
+    
+  # Login de usuário:
+    email: karina@email.com
+    login: 123456
+```
 
 
-# Conclusão
+
