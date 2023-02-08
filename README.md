@@ -82,7 +82,11 @@ E para essa aplicação foi utilizada:
 * React Router Dom
 
 # Instruções para a execução do projeto
-Clonar os dois repositórios, tanto este (Frontend) quanto o Backend que pode ser encontrado [aqui]()
+Clonar os dois repositórios, tanto este (Frontend) quanto o Backend que pode ser encontrado [aqui](https://github.com/karinalumy/food-explorer-api-render)
+Entre na pasta do Backend e rode os seguintes comandos:
+```
+npm install
+```
 
 # Licensa
 
