@@ -42,6 +42,26 @@ Depois de logado o cliente pode será direcionado para a página de Pratos Princ
 
 ![pratos-principais](https://user-images.githubusercontent.com/81266915/217595449-654e0c32-2cb4-4063-9a7f-794b5ec27587.png)
 
+![pratos-principais](https://user-images.githubusercontent.com/81266915/217596267-07e81543-3e31-4491-aa86-34bd461bb727.jpg)
+
+![sobremesas](https://user-images.githubusercontent.com/81266915/217596306-4db97fc9-7d7f-49f8-8d1d-589e8721d19b.png)
+
+![bebidas](https://user-images.githubusercontent.com/81266915/217596322-1ab99d2a-4bc1-4140-a66d-a4629c74cbee.png)
+
+Nessa área o cliente pode favoritar pedidos, fazer busca de pratos, incluir pratos no carrinho de compras e ver os seus pedidos no botão no topo da página "Pedidos".
+
+Também é possível ver quais ingredientes de cada prato clicando em cima do nome do prato:
+![ingredientes](https://user-images.githubusercontent.com/81266915/217597489-ca86fddc-a355-4674-a960-e2faca01d27e.png)
+
+Para finalizar, após escolher os pratos o cliente será direcionado para página de descrição dos pedidos, onde ele pode exclui algum caso queira e escolher a forma de pagamento, cartão de crédito ou QR Code PIX:
+
+
+![pagamento](https://user-images.githubusercontent.com/81266915/217598143-a6319a0d-3b0d-4c2e-9964-fdb369c1bcc3.png)
+
+
+
+
+
 
 
 # Tecnologias utilizadas
