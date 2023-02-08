@@ -81,6 +81,9 @@ E para essa aplicação foi utilizada:
 * React Icons
 * React Router Dom
 
+# Instruções para a execução do projeto
+Clonar os dois repositórios, tanto este (Frontend) quanto o Backend que pode ser encontrado [aqui]()
+
 # Licensa
 
 
