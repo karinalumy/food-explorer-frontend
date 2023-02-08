@@ -30,8 +30,9 @@
 * Para acessar como cliente basta realizar um cadastro e logar.
 
 # Funcionalidades e Demonstração da Aplicação
-<h2>Acessando como cliente</h2>
+<h2 align="center">Acessando como cliente</h2>
 Ao acessar o site o usuário cairá nessa página inicial contendo inputs para fazer o login:
+
 ![Página inicial de login](https://user-images.githubusercontent.com/81266915/217594319-9760d626-7616-4d13-acff-430d3a55c754.jpg)
 
 Caso o usuário ainda não possua cadastro, basta clicar em "Criar uma conta" e ele será direcionado para essa página:
@@ -54,11 +55,15 @@ Para finalizar, após escolher os pratos o cliente será direcionado para págin
 
 ![pagamento](https://user-images.githubusercontent.com/81266915/217598143-a6319a0d-3b0d-4c2e-9964-fdb369c1bcc3.png)
 
+<h2 align="center">Acessando como Administrador</h2>
+Fazendo login como administrador é possível editar os pratos.</br>
 
+![pratos-principais](https://user-images.githubusercontent.com/81266915/217600928-1d08a5c3-7b4c-4840-87ee-f00a2824ef17.png)
 
+É possível retirar pratos clicando na lixeira ou apenas adicionar mais items ao cardápio clicando em adicionar novo prato.
+O administrados também pode alterar nomes, descrição ou ingredientes clicando sobre o prato para ser redirecionado para a página de edição.
 
-
-
+![mudar-pratos](https://user-images.githubusercontent.com/81266915/217601979-12c7816b-6ce4-4af2-8439-f3f51bf2fab4.png)
 
 # Tecnologias utilizadas
 
