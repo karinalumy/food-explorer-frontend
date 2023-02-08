@@ -66,7 +66,22 @@ O administrados também pode alterar nomes, descrição ou ingredientes clicando
 ![mudar-pratos](https://user-images.githubusercontent.com/81266915/217601979-12c7816b-6ce4-4af2-8439-f3f51bf2fab4.png)
 
 # Tecnologias utilizadas
+O Frontend dessa aplicação foi hospedade no Netlify e o Backend no Render.</br>
+E para essa aplicação foi utilizada:
+* ReactJs
+* Node.js
+* Javascript
+* Vite
+* SQLite
+* Knex
+* Multer
+* CORS
+* Axios
+* Styled Components
+* React Icons
+* React Router Dom
 
 # Licensa
+
 
 # Conclusão
