@@ -39,14 +39,10 @@ Caso o usuário ainda não possua cadastro, basta clicar em "Criar uma conta" e 
 
 Depois de logado o cliente pode será direcionado para a página de Pratos Principais, Sobremesas e Bebidas:
 
-
-![pratos-principais](https://user-images.githubusercontent.com/81266915/217595449-654e0c32-2cb4-4063-9a7f-794b5ec27587.png)
-
+![sabores-user](https://user-images.githubusercontent.com/81266915/217599715-563359d9-8692-47b5-9603-56581b76c7cc.png)
 ![pratos-principais](https://user-images.githubusercontent.com/81266915/217596267-07e81543-3e31-4491-aa86-34bd461bb727.jpg)
-
-![sobremesas](https://user-images.githubusercontent.com/81266915/217596306-4db97fc9-7d7f-49f8-8d1d-589e8721d19b.png)
-
-![bebidas](https://user-images.githubusercontent.com/81266915/217596322-1ab99d2a-4bc1-4140-a66d-a4629c74cbee.png)
+![sobremesas-users](https://user-images.githubusercontent.com/81266915/217599661-7a225a88-13e6-4a27-86eb-53025d1f78f3.png)
+![bebidas-user](https://user-images.githubusercontent.com/81266915/217599975-23b5035b-2b8d-4d86-89f2-9ccff3f7cde2.png)
 
 Nessa área o cliente pode favoritar pedidos, fazer busca de pratos, incluir pratos no carrinho de compras e ver os seus pedidos no botão no topo da página "Pedidos".
 
