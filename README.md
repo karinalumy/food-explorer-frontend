@@ -30,7 +30,19 @@
 * Para acessar como cliente basta realizar um cadastro e logar.
 
 # Funcionalidades e Demonstração da Aplicação
-  
+<h2>Acessando como cliente</h2>
+Ao acessar o site o usuário cairá nessa página inicial contendo inputs para fazer o login:
+![Página inicial de login](https://user-images.githubusercontent.com/81266915/217594319-9760d626-7616-4d13-acff-430d3a55c754.jpg)
+
+Caso o usuário ainda não possua cadastro, basta clicar em "Criar uma conta" e ele será direcionado para essa página:
+![Página para cadastro de usuário](https://user-images.githubusercontent.com/81266915/217594770-832c89ac-163d-4063-a6ae-a580c5a9fab7.jpg)
+
+Depois de logado o cliente pode será direcionado para a página de Pratos Principais, Sobremesas e Bebidas:
+
+
+![pratos-principais](https://user-images.githubusercontent.com/81266915/217595449-654e0c32-2cb4-4063-9a7f-794b5ec27587.png)
+
+
 
 # Tecnologias utilizadas
 
